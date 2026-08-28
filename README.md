@@ -41,8 +41,7 @@ For research practice, a defensible workflow should not treat one fluent answer 
 
 The paper is the earlier AI-assisted research output used as the foundation for this repository. It discusses prompt sensitivity as a methodological issue for LLM-assisted research and proposes a conclusion-stability perspective.
 
-- [Read the paper (PDF)](paper/AI_Assisted_Research_Paper.pdf)
-- [Source document (DOCX)](paper/AI_Assisted_Research_Paper.docx)
+- [Read the paper (PDF)](paper/AI-assisted research paper.pdf)
 
 ## Citation Integrity Audit
 
